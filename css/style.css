@@ -1,1 +1,8 @@
-/*# sourceMappingURL=style.css.map */
+:root {
+  --color1: #F8B78B;
+}
+
+Body {
+  font-family: sans-serif;
+  background-color: var(--color1);
+}/*# sourceMappingURL=style.css.map */
