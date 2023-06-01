@@ -29,4 +29,11 @@ body {
 }
 .card-body {
   background-color: greenyellow;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.card-body-contentimg {
+  border: 5px solid #F67C55;
+  border-radius: 50%;
 }/*# sourceMappingURL=style.css.map */

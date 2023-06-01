@@ -30,5 +30,14 @@ background-position: right 50vw bottom 50vh , left 50vw top 50vh;
 
   &-body  {
     background-color: greenyellow;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    &-contentimg  {
+      border: 5px solid #F67C55;
+      border-radius: 50%;
+
+    }
   }
 }
