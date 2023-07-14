@@ -11,7 +11,7 @@ This project consists of recreating a Pokémon card using **CSS**. The card disp
 #### Usage Instructions:
 
     1. Clone this repository to your local machine.
-	  2 .Open the "index.html" file in your web browser.
+    2 .Open the "index.html" file in your web browser.
 
 #### Demo:
 
