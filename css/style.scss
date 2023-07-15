@@ -1,6 +1,6 @@
 :root {
-    --color1: #F8B78B;
-    --color2: #fcb173;
+  --color1: #F8B78B;
+  --color2: #fcb173;
 }
 
 html{
@@ -9,15 +9,15 @@ html{
 }
 
 *, *:before , *:after  {
-box-sizing: inherit;
+  box-sizing: inherit;
 }
 
 body  {
-font-family: sans-serif;
-background-color: var(--color1);
-background-image: url(../img/fondoTop.svg) , url(../img/fondoBotton.svg);
-background-repeat: no-repeat, no-repeat;
-background-position: right 50vw bottom 50vh , left 50vw top 50vh;
+  font-family: sans-serif;
+  background-color: var(--color1);
+  background-image: url(../img/fondoTop.svg) , url(../img/fondoBotton.svg);
+  background-repeat: no-repeat, no-repeat;
+  background-position: right 50vw bottom 50vh , left 50vw top 50vh;
 }
 
 .contenedor{
@@ -42,7 +42,6 @@ background-position: right 50vw bottom 50vh , left 50vw top 50vh;
   }
 
   &-body  {
-    
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -73,7 +72,6 @@ background-position: right 50vw bottom 50vh , left 50vw top 50vh;
       text-align: center;
       margin-bottom: 2rem;
       margin-top: 2rem;
-
     }
   }
 }
